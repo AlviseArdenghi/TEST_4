@@ -2,7 +2,7 @@
   "id": "79a8f3c3-53a6-4b95-9688-e92575a0e328",
   "name": "TEST_AA",
   "publisher": "AlviseArdenghi",
-  "version": "1.0.0.0",
+  "version": "21.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "19.0.0.0",
+  "application": "21.0.0.0",
   "idRanges": [
     {
       "from": 50100,
